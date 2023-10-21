@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Reflection.Emit;
 
+<<<<<<< HEAD
 namespace DaireselListe
+=======
+namespace Hafta4
+>>>>>>> afac15d3f811a196edeff537950516e9a7279358
 {
     public class node
     {
