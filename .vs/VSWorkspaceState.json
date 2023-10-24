@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\link_list"
+    "\\link_list",
+    "\\queue"
   ],
-  "SelectedNode": "\\link_list\\cift_yonlu.cs",
+  "SelectedNode": "\\queue\\queue_dizi.cs",
   "PreviewInSolutionExplorer": false
 }
